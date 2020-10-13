@@ -6,3 +6,4 @@
 4. Print any pattern
 5. Reverse the input string
 6. Find number of characters in the string.
+7. Find frequency of a given character in the given string
